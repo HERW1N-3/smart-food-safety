@@ -1,0 +1,6 @@
+{
+  "name": "FOODTRACE",
+  "description": "A smart food safety system that tracks products from farm to retail with AI-powered explainable safety alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
